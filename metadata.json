@@ -1,0 +1,6 @@
+{
+  "name": "Sagar Distributor - Wholesale Pharmaceutical Supplier",
+  "description": "Premier wholesale medicine and pharmaceutical distributor based in Chalisgaon Main Hub, serving retail chemists and hospitals across all 15 Talukas of Jalgaon District with genuine medical supplies, featuring integrated GST billing, POS invoicing, inventory control, and customer ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
